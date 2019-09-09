@@ -1,0 +1,5 @@
+﻿1/ Thêm Delay 
+4/ Fixx lỗi random all
+5/ Đổi vị trí nút fund manage
+6/ Đổi tên Config store thành Strat store.
+7/Soạn thỏa thuận bảo mật.
